@@ -1,0 +1,21 @@
+Descripción del proyecto:
+
+Un hospital privado desea mejorar su presencia en línea mediante la creación de un
+sitio web que proporcione información clara y fácil de navegar para los pacientes. 
+El sitio web reflejará la identidad del hospital, con información sobre los servicios médicos, el equipo médico, y una manera sencilla para que los pacientes puedan contactarse.
+
+Instrucciones:
+Idealmente se debe iniciar la navegación abriendo en el navegador el archivo "home.html", sin embargo, al abrir culquier archivo con extensión .html es posible visualizar el menú de navegación y llegar al resto de páginas.
+
+Estructura de carpetas y archivos:
+Existe una carpeta general donde se encuentran todos los archivos de páginas, se crea una carpeta llamada "images" para almacenar las imágenes a utilizar.
+
+Explicación breve de cada vista:
+
+Home (/home): La página principal del hospital proporciona una visión general de los servicios y destaca algunos aspectos clave, como los testimonios de pacientes
+
+Equipo médico (/equipo): Esta página proporciona una descripción del equipo médico del hospital
+
+Contacto (/contacto): Esta página permite que los pacientes se pongan en contacto con el hospital y vean su dirección localizada en un mapa
+
+Se utilizan imágenes de https://www.freepik.es
